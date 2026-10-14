@@ -1,2 +1,4 @@
 Welcome to Git
 Learning Git Basics
+This line is from CONFLICT Branch
+
